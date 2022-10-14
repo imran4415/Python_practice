@@ -1,0 +1,4 @@
+i am learning python
+through harry's turotials
+i'm on chapter 9
+i am understanding file I/o
